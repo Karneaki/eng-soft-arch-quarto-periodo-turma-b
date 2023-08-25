@@ -1,9 +1,6 @@
 import java.util.Scanner;
+import Operacoes.*;
 
-import operacoes.Adicao;
-import operacoes.Multiplicar;
-import operacoes.Subtrair;
-import operacoes.Divisao;
 
 public class Main {
     public static void main(String[] args) {

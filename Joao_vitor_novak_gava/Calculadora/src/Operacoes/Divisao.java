@@ -1,3 +1,5 @@
+package Operacoes;
+
 public class Divisao {
 	   public static double calcular (double num1, double num2){
 	       if(num1 == 0 || num2 == 0) {
